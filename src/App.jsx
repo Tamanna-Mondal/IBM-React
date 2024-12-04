@@ -1,6 +1,7 @@
 import './App.css'
 
-import Login from './Component/login'
+import Counter from './Component/counter.jsx'
+import Search from './Component/Search.jsx'
 function App() {
 
 
@@ -8,7 +9,7 @@ function App() {
     <>
     
         
-       <Login/>  
+       <Search/>  
     
     </>
   )
